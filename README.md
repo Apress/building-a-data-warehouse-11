@@ -2,7 +2,7 @@
 
 This repository accompanies [*Building a Data Warehouse*](http://www.apress.com/9781430242994) by Vincent Rainardi (Apress, 2011).
 
-![Cover image](9781430242994.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
